@@ -1,0 +1,7 @@
+C:\Users\danhi\source\repos\Programme Student\obj\Debug\Programme Student.csprojAssemblyReference.cache
+C:\Users\danhi\source\repos\Programme Student\obj\Debug\Programme Student.csproj.CoreCompileInputs.cache
+C:\Users\danhi\source\repos\Programme Student\bin\Debug\Programme Student.exe.config
+C:\Users\danhi\source\repos\Programme Student\bin\Debug\Programme Student.exe
+C:\Users\danhi\source\repos\Programme Student\bin\Debug\Programme Student.pdb
+C:\Users\danhi\source\repos\Programme Student\obj\Debug\Programme Student.exe
+C:\Users\danhi\source\repos\Programme Student\obj\Debug\Programme Student.pdb
